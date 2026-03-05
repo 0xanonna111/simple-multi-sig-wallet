@@ -1,0 +1,12 @@
+{
+  "name": "simple-multi-sig",
+  "version": "1.0.0",
+  "description": "Multi-signature wallet implementation",
+  "dependencies": {
+    "ethers": "^6.7.0"
+  },
+  "devDependencies": {
+    "hardhat": "^2.19.0"
+  },
+  "license": "MIT"
+}
